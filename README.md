@@ -13,5 +13,4 @@ my stacks
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/alethos_bk/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/alice-periles/))
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Alethos-BK&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alethos-BK&theme=neon&hide_border=false"  width="400px" />
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Alethos-BK&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Alethos-BK&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alethos-BK&theme=neon&hide_border=false"  width="400px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Alethos-BK&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
